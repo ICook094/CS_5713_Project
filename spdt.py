@@ -37,7 +37,7 @@ class _Node:
     right: Optional[int] = None
 
 # ------------------------------------------------------------
-# SPDT classifier (single-process)d
+# SPDT classifier (single-process)
 # ------------------------------------------------------------
 class SPDT:
     
